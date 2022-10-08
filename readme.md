@@ -11,10 +11,10 @@
 * * *
 ### Supported sites list:
 
-9anime.to - <a href="https://9anime.to" target="_blank">9anime.to</a>  
-9anime.id - <a href="https://9anime.id" target="_blank">9anime.id</a>  
-9anime.gs - <a href="https://9anime.gs" target="_blank">9anime.gs</a>  
-9anime.pl - <a href="https://9anime.pl" target="_blank">9anime.pl</a>  
+9anime.to - <a href="https://9anime.to/home" target="_blank">9anime.to</a>  
+9anime.id - <a href="https://9anime.id/home" target="_blank">9anime.id</a>  
+9anime.gs - <a href="https://9anime.gs/home" target="_blank">9anime.gs</a>  
+9anime.pl - <a href="https://9anime.pl/home" target="_blank">9anime.pl</a>  
 
 
 * * *
@@ -25,14 +25,14 @@
 \~\~\~ Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)  
 \~\~\~ Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)  
 
-2\. Install [9anime Watch-List Custom Filter](https://greasyfork.org/en/scripts/451209-9anime-downloader)\.  
+2\. Install [9anime Watch-List Custom Filter](https://greasyfork.org/en/scripts/452695-9anime-watch-list-custom-filter)\.  
 3\. Optional: It's Recommended to Use AdBlocker Extension. Like [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) or [AdGuard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) .  
 
 Done.
 
 
 * * *
-&nbsp;  
+
 ### How to use:  
 
 1\. Go to 9anime.to or any other supported sites. Then access Watch-List by clicking the profile icon on the top-right corner of the screen.  
