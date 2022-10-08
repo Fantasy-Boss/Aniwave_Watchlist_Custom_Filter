@@ -41,6 +41,8 @@ Done.
 
 3\. After that you can see the Custom Filter menu.
 
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/1.png" alt="9anime Downloader" width="70%"> 
+
 &nbsp;  
 <img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/2.png" alt="9anime Downloader" width="70%">  
 
