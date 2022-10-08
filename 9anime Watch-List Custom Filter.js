@@ -3,7 +3,7 @@
 // @namespace      https://greasyfork.org/en/users/957626-fantasy-boss
 // @homepageURL    https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter
 // @supportURL     https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/issues/new
-// @version        1.0.0
+// @version        1.0.1
 // @description    Watch-List Custom Filter for 9anime
 // @author         Fantasy Boss
 // @icon           https://www.google.com/s2/favicons?domain=9anime.id
