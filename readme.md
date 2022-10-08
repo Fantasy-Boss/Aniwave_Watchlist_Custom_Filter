@@ -5,19 +5,8 @@
 9anime Watch-List Custom Filter
 =================
 
-#### Watch-List Custom Filter for 9anime. \<BETA\>
+#### Watch-List Custom Filter for 9anime.
 
-* * *
-
-### Features:
-
-1\. Download Whole Season with One click.  
-2\. Download options: Sub - Dub - Video Quality.  
-3\. Fully Free, no Ads, no Virus, 100% Safe.  
-4\. Scrapping with progress bar.  
-5\. One click IDM Queue.  
-
-* * *
 
 ### Supported sites list:
 
@@ -25,6 +14,7 @@
 9anime.id - <a href="https://9anime.id" target="_blank">9anime.id</a>  
 9anime.gs - <a href="https://9anime.gs" target="_blank">9anime.gs</a>  
 9anime.pl - <a href="https://9anime.pl" target="_blank">9anime.pl</a>  
+
 
 * * *
 
@@ -39,45 +29,43 @@
 
 Done.
 
-&nbsp;
 
 * * *
-
 &nbsp;  
-### How to use:
+### How to use:  
 
 1\. Go to 9anime.to or any other supported sites. Then access Watch-List by clicking the profile icon on the top-right corner of the screen.  
 
-&nbsp;  
-&nbsp;  
 2\. Wait for the website to finishing loading.
 
-&nbsp;  
-&nbsp;  
 3\. After that you can see the Custom Filter menu.
 
-<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Downloader/main/images/how-to-use-3.png" alt="9anime Downloader" width="70%"> 
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/1.png" alt="9anime Downloader" width="70%"> 
 
 &nbsp;  
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/2.png" alt="9anime Downloader" width="70%">  
+
 &nbsp;  
 4\. Completed (Sub) or Completed (Dub) means that all episodes has been finished airing for those series in Subbed or Dubbed.
 
-<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Downloader/main/images/how-to-use-4.png" alt="9anime Downloader" width="70%">  
-&nbsp;  
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/3.png" alt="9anime Downloader" width="15%">  <img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/4.png" alt="9anime Downloader" width="15%">  
 
-5\. Releasing (Sub) or Releasing (Dub) means that this series is still ongoing in Subbed or Dubbed.
-&nbsp;  
 &nbsp;
+5\. Releasing (Sub) or Releasing (Dub) means that this series is still ongoing in Subbed or Dubbed.  
 
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/5.png" alt="9anime Downloader" width="15%">  <img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/6.png" alt="9anime Downloader" width="15%">  
+
+&nbsp;
 6\. Reset Filter means resetting  only the Custom Filter.
 
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/7.png" alt="9anime Downloader" width="12%">  
+
+&nbsp;
 * * *
 
 ### About
 
-This script is dedicated to those anime suckers out there. **Long Live Anime.**  
-
-Any kind of feedback would be helpful. Post any Issues or Suggestions here - [Github](https://github.com/Fantasy-Boss/9anime-Downloader/issues/new).  
+Any kind of feedback would be helpful. Post any Issues or Suggestions here - [Github](https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/issues/new).  
 
 If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
 &nbsp;  
