@@ -11,10 +11,10 @@
 * * *
 ### Supported sites list:
 
-9anime.to - <a href="https://9anime.to/home" target="_blank">9anime.to</a>  
-9anime.id - <a href="https://9anime.id/home" target="_blank">9anime.id</a>  
-9anime.gs - <a href="https://9anime.gs/home" target="_blank">9anime.gs</a>  
-9anime.pl - <a href="https://9anime.pl/home" target="_blank">9anime.pl</a>  
+9anime.to - <a href="https://9anime.to/user/watch-list" target="_blank">9anime.to/user/watch-list</a>  
+9anime.id - <a href="https://9anime.id/user/watch-list" target="_blank">9anime.id/user/watch-list</a>  
+9anime.gs - <a href="https://9anime.gs/user/watch-list" target="_blank">9anime.gs/user/watch-list</a>  
+9anime.pl - <a href="https://9anime.pl/user/watch-list" target="_blank">9anime.pl/user/watch-list</a>  
 
 
 * * *
