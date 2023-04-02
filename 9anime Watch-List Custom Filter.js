@@ -3,7 +3,7 @@
 // @namespace      https://greasyfork.org/en/users/957626-fantasy-boss
 // @homepageURL    https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter
 // @supportURL     https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/issues/new
-// @version        1.0.1
+// @version        1.0.2
 // @description    Watch-List Custom Filter for 9anime
 // @author         Fantasy Boss
 // @icon           https://www.google.com/s2/favicons?domain=9anime.id
@@ -37,6 +37,20 @@
         } .cf-active, .cf-active:hover, .cf-active:focus, .cf-active:active {
             background-color: #3d1576;
             color: #fff;
+        } #img_view {
+            position: fixed;
+            background: #000000cc;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #img_view img {
+            height: 100%;
         }
         `)
         let html = `
@@ -54,12 +68,26 @@
           <button class="btn btn-bg btn-primary d-flex align-items-center mr-3" id="air-dub">
             <span>Releasing (Dub)</span>
           </button>
-          <button class="btn btn-bg btn-primary d-flex align-items-center" id="reset">
+          <button class="btn btn-bg btn-primary d-flex align-items-center mr-3" id="reset">
             <span>Reset Filter</span>
+          </button>
+          <button class="btn btn-bg btn-light d-flex align-items-center mr-3 ml-auto" id="count">
+            <span style="color: black !important; font-weight: bolder;">0</span>
           </button>
         </div>
         `
         $('#body > div.profile-container > div > aside.main > div.watchlist.scaff.items').before(html)
+        setInterval(()=> {
+            $("#custom-filter #count span").text($(".watchlist.items .item:visible").length)
+        }, 100)
+        $(".watchlist.items .poster img").click((e)=> {
+            let src = ($(e.target).attr("src")).replace("-w100", "")
+            let img_view = `<div id="img_view"><img src="${src}"></div>`
+            $('body').after(img_view)
+            $("#img_view").click(()=> {
+                $("#img_view").remove()
+            })
+        })
 
         // Clicked Functions
         const reset = async()=> {
