@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           9anime Watch-List Custom Filter
-// @namespace      https://greasyfork.org/en/users/957626-fantasy-boss
+// @namespace      https://github.com/Fantasy-Boss
 // @homepageURL    https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter
 // @supportURL     https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/issues/new
 // @version        1.0.3
