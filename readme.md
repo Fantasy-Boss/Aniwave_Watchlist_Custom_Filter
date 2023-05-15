@@ -71,7 +71,6 @@ Any kind of feedback would be helpful. Post any Issues or Suggestions here - [Gi
 If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
 &nbsp;  
 
-You can also try - [9anime Downloader](https://greasyfork.org/en/scripts/451209-9anime-downloader).  
 
 * * *
 
