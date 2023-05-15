@@ -17,6 +17,7 @@
 // @compatible     firefox
 // @run-at         document-end
 // @license        MIT
+// @copyright      2023, Fantasy-Boss (https://openuserjs.org/users/Fantasy-Boss)
 // ==/UserScript==
 
 
