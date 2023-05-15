@@ -16,7 +16,7 @@
 // @compatible     chrome
 // @compatible     firefox
 // @run-at         document-end
-// @license        MIT License
+// @license        MIT
 // ==/UserScript==
 
 
