@@ -62,6 +62,11 @@ Done.
 <img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/7.png" alt="9anime Downloader" width="12%">  
 
 &nbsp;
+7\. You can click on any poster to enlarge it in watch list.
+
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/main/images/8.png" alt="9anime Downloader" width="80%">  
+
+&nbsp;
 * * *
 
 ### About
