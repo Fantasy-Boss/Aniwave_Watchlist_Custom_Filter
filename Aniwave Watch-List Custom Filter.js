@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name           Aniwave Watch-List Custom Filter
 // @namespace      https://github.com/Fantasy-Boss
-// @homepageURL    https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter
-// @supportURL     https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/issues/new
+// @homepageURL    https://github.com/Fantasy-Boss/Aniwave_Watchlist_Custom_Filter
+// @supportURL     https://github.com/Fantasy-Boss/Aniwave_Watchlist_Custom_Filter/issues/new
 // @version        1.0.4
-// @description    Watch-List Custom Filter for 9anime
+// @description    Watch-List Custom Filter for Aniwave
 // @author         Fantasy Boss
-// @icon           https://www.google.com/s2/favicons?domain=9anime.id
+// @icon           https://www.google.com/s2/favicons?domain=aniwave.to
 // @match          *://aniwave.to/user/watch-list*
 // @grant          GM_addStyle
 // @require        https://code.jquery.com/jquery-3.6.1.min.js
