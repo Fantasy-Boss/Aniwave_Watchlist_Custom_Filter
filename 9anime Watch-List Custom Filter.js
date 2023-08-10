@@ -3,14 +3,11 @@
 // @namespace      https://github.com/Fantasy-Boss
 // @homepageURL    https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter
 // @supportURL     https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter/issues/new
-// @version        1.0.3
+// @version        1.0.4
 // @description    Watch-List Custom Filter for 9anime
 // @author         Fantasy Boss
 // @icon           https://www.google.com/s2/favicons?domain=9anime.id
-// @match          *://9anime.to/user/watch-list*
-// @match          *://9anime.id/user/watch-list*
-// @match          *://9anime.gs/user/watch-list*
-// @match          *://9anime.pl/user/watch-list*
+// @match          *://aniwave.to/user/watch-list*
 // @grant          GM_addStyle
 // @require        https://code.jquery.com/jquery-3.6.1.min.js
 // @compatible     chrome
