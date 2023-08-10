@@ -2,19 +2,17 @@
 
 <img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Downloader/main/images/icon_x100.png">  
 
-9anime Watch-List Custom Filter
+Aniwave Watch-List Custom Filter
 =================
 
-#### Watch-List Custom Filter for 9anime.
+#### Watch-List Custom Filter for Aniwave.
 
 &nbsp;  
 * * *
 ### Supported sites list:
 
-9anime.to - <a href="https://9anime.to/user/watch-list" target="_blank">9anime.to/user/watch-list</a>  
-9anime.id - <a href="https://9anime.id/user/watch-list" target="_blank">9anime.id/user/watch-list</a>  
-9anime.gs - <a href="https://9anime.gs/user/watch-list" target="_blank">9anime.gs/user/watch-list</a>  
-9anime.pl - <a href="https://9anime.pl/user/watch-list" target="_blank">9anime.pl/user/watch-list</a>  
+Aniwave.to - <a href="https://aniwave.to/user/watch-list" target="_blank">aniwave.to/user/watch-list</a>  
+(Formally known as 9anime.to)
 
 
 * * *
@@ -25,7 +23,7 @@
 \~\~\~ Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)  
 \~\~\~ Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)  
 
-2\. Install [9anime Watch-List Custom Filter](https://openuserjs.org/scripts/Fantasy-Boss/9anime_Watch-List_Custom_Filter)\.  
+2\. Install [Aniwave Watch-List Custom Filter](https://openuserjs.org/scripts/Fantasy-Boss/9anime_Watch-List_Custom_Filter)\.  
 3\. Optional: It's Recommended to Use AdBlocker Extension. Like [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) or [AdGuard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) .  
 
 Done.
