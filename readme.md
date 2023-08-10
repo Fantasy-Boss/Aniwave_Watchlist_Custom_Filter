@@ -1,6 +1,6 @@
 &nbsp;  
 
-<img src="https://raw.githubusercontent.com/Fantasy-Boss/Aniwave_Watchlist_Custom_Filter/main/images/icon_x100.png">  
+<img src="https://raw.githubusercontent.com/Fantasy-Boss/Aniwave_Watchlist_Custom_Filter/main/images/icon-100.png">  
 
 Aniwave Watch-List Custom Filter
 =================
