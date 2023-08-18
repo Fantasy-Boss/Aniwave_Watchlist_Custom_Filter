@@ -18,8 +18,6 @@
 // ==/UserScript==
 
 
-
-
 (function() {
     'use strict';
 
@@ -60,7 +58,6 @@
           }
         }
         `)
-
         let html = `
         <div id="custom-filter" class="d-flex align-items-center">
           <span class="h5 ml-1 mr-4 mb-0">Custom Filter:</span>
@@ -84,12 +81,10 @@
           </button>
         </div>
         `
-
         $('#body > div.profile-container > div > aside.main > div.watchlist.scaff.items').before(html)
         setInterval(()=> {
             $("#custom-filter #count span").text($(".watchlist.items .item:visible").length)
         }, 100)
-
         $(".watchlist.items .poster img").click((e)=> {
             let src = ($(e.target).attr("src")).replace("-w100", "")
             let img_view = `<div id="img_view"><img src="${src}"></div>`
@@ -99,13 +94,11 @@
             })
         })
 
-
         // Clicked Functions
         const reset = async()=> {
             $('#custom-filter button').removeClass('cf-active')
             $('#body > div.profile-container > div > aside.main > div.watchlist.scaff.items .item').removeClass('d-none')
         }
-
         const comSub = async()=> {
             let arr = $('#body > div.profile-container > div > aside.main > div.watchlist.scaff.items .item')
             arr.map((i)=> {
@@ -135,7 +128,6 @@
                 if (ep_count !== com_count) $(arr[i]).addClass('d-none')
             })
         }
-
         const comDub = async()=> {
             let arr = $('#body > div.profile-container > div > aside.main > div.watchlist.scaff.items .item')
             arr.map((i)=> {
@@ -195,115 +187,60 @@
                 if (ep_count === com_count || com_count === 0) $(arr[i]).addClass('d-none')
             })
         }
-
         const airDub = async()=> {
-
             let arr = $('#body > div.profile-container > div > aside.main > div.watchlist.scaff.items .item')
-
             arr.map((i)=> {
-
                 let ep_count = 0
-
                 let com_count = 0
-
                 let span_arr = $(arr[i]).find(`.info .detail .ep span`)
-
                 if ($(span_arr).length > 1) {
-
                     span_arr.map((o)=> {
-
                         if (($(span_arr[o]).text()).includes('EPS')) {
-
                             ep_count = parseInt($(span_arr[o]).text())
-
                         }
-
                         if ($(span_arr[o]).find(`i`).attr('class') === 'fa-solid fa-microphone') {
-
                             com_count = parseInt($(span_arr[o]).text())
-
                         }
-
                     })
-
                 }
-
                 else {
-
                     if (($(span_arr).text()).includes('EPS')) {
-
                         ep_count = parseInt($(span_arr).text())
-
                     } else {
-
                         ep_count = 9999999999999999999999
-
                         if ($(span_arr).find(`i`).attr('class') === 'fa-solid fa-microphone') {
-
                             com_count = parseInt($(span_arr).text())
-
                         }
-
                     }
-
                 }
-
                 if (ep_count === com_count || com_count === 0) $(arr[i]).addClass('d-none')
-
             })
-
         }
 
-
-
         // Clicked Events
-
         $('#com-sub').click((e)=> {
-
             reset()
-
             $(e.target).addClass('cf-active')
-
             comSub()
-
         })
-
         $('#com-dub').click((e)=> {
-
             reset()
-
             $(e.target).addClass('cf-active')
-
             comDub()
-
         })
-
         $('#air-sub').click((e)=> {
-
             reset()
-
             $(e.target).addClass('cf-active')
-
             airSub()
-
         })
-
         $('#air-dub').click((e)=> {
-
             reset()
-
             $(e.target).addClass('cf-active')
-
             airDub()
-
         })
-
         $('#reset').click(reset)
 
-
-
     }, false);
-
 })();
 
 
@@ -318,19 +255,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                
